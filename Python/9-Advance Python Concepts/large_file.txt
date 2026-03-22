@@ -1,0 +1,22 @@
+Answer all the questions and submit softcopy in google class room and hardcopy at class
+Q1 Define Image processing and explain the operational steps for image classification.
+Q2 Write a short note on image segmentation
+Q3 Explain orthogonal transformations with applications.
+Q4 Explain Euclidean transformations with applications
+Q5 Explain affine transformations with applications
+Q6 Explain projective transformations with applications
+Q7 Differentiate between orthogonal and Euclidean transformations with applications
+Q8 Differentiate between affine and projective transformations with applications
+Q9 What is convolution? Justify the convolution in spatial domain corresponds to multiplication in
+frequency domain.
+Q10 Explain the significance of convolution.
+Q11 Write in brief about 3D reconstruction framework from multiple views.
+Q12 What is RANSAC? Describe RANSAC in mathematically and derive iteration formula:
+Q13 Discuss in details about first-order edge detection methods with mathematical expression.
+Q14 Discuss in details about second-order edge detection methods with mathematical expression.
+Q15 Write a short notes on Image Enhancement
+Q16 Define Homography and its importance.
+Q17 Explain various Feature Extraction methods with examples
+Q18 How to compute Depth Estimation? Explain briefly.
+Q19 State the objectives of image processing.
+Q20 State the applications of Computer Vision.
