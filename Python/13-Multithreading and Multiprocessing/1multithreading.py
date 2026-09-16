@@ -18,7 +18,7 @@ def print_letter():
         print(f"Letter: {letter}")
 
 
-## concurrent execution
+## concurrent execution- one of these threads executes when other is in sleep mode
 ## create 2 thread
 t1 = threading.Thread(target=print_numbers)
 t2 = threading.Thread(target=print_letter)
